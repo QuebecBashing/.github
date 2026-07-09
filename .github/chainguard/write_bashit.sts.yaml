@@ -1,4 +1,0 @@
-issuer: https://token.actions.githubusercontent.com
-subject: repo:SecretQuebecBashing/oidc:ref:refs/heads/main
-permissions:
-  contents: write
